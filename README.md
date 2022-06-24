@@ -4,4 +4,5 @@ The aim is to have my C skills ready enough to contribute to open source project
 | Problems | Solutions |
 |----------|-----------|
 | [printPattern problem statement](https://www.hackerrank.com/challenges/printing-pattern-2?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/printPattern.c) |
-
+| [1DArray problem statement](https://www.hackerrank.com/challenges/1d-arrays-in-c/problem?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/1DArray.c) |
+| [arrayReversal problem statement](https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/arrayReversal.c) |
