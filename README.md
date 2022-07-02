@@ -13,3 +13,4 @@ The aim is to have my C skills ready enough to contribute to open source project
 | [students marks summation problem](https://www.hackerrank.com/challenges/students-marks-sum/problem?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/markSum.c) | 1 |
 | [sort array of strings problem](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/string_array_sort.c) | 3 |
 | [permutation of strings problem](https://www.hackerrank.com/challenges/permutations-of-strings/problem) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/permutation_of_strings.c) | 4 |
+| [variadic function problem](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) | [solution](https://github.com/streetCoderr/30-Days-Of-C/blob/main/variadicFunctions.c) | 1 |
